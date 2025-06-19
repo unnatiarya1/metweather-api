@@ -19,7 +19,7 @@ Data includes monthly climate summaries such as **Tmax**, **Tmin**, **Rainfall**
 
 ---
 
-## 🖼️ API Demo
+🖼️ API Demo
 
 ```http
 GET /api/climate/
