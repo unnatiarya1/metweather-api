@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i)=_$i*g5!re+wvmzhb6)#xj#iz!=dtq!g&6s%u!^axh1!xzqd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['metweather-api.onrender.com', '127.0.0.1', 'localhost']
 
 
 # Application definition
